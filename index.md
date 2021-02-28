@@ -37,4 +37,4 @@ Imagen de ejemplo:
 ![Texto de la imagen](https://www.gstatic.com/webp/gallery/4.sm.jpg)
 
 Link a otro archivo .md  
-[Enlace a archivo.md]
+[Enlace a archivo.md](https://github.com/nanananita/tarea3/blob/main/README.md)
